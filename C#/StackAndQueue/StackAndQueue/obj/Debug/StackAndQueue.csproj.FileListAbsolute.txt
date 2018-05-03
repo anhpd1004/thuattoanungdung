@@ -1,0 +1,6 @@
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csprojResolveAssemblyReference.cache
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb

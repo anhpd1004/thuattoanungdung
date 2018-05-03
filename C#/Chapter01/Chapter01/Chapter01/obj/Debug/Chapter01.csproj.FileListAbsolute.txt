@@ -1,0 +1,6 @@
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Chapter01\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Chapter01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb

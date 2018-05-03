@@ -1,0 +1,6 @@
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Bai15\Bai15\bin\Debug\Bai15.exe.config
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Bai15\Bai15\bin\Debug\Bai15.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Bai15\Bai15\bin\Debug\Bai15.pdb
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Bai15\Bai15\obj\Debug\Bai15.csprojResolveAssemblyReference.cache
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Bai15\Bai15\obj\Debug\Bai15.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\Bai15\Bai15\obj\Debug\Bai15.pdb

@@ -1,0 +1,6 @@
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\ThuSauNgay02_02_2018\ThuSauNgay02_02_2018\bin\Debug\ThuSauNgay02_02_2018.exe.config
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\ThuSauNgay02_02_2018\ThuSauNgay02_02_2018\bin\Debug\ThuSauNgay02_02_2018.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\ThuSauNgay02_02_2018\ThuSauNgay02_02_2018\bin\Debug\ThuSauNgay02_02_2018.pdb
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\ThuSauNgay02_02_2018\ThuSauNgay02_02_2018\obj\Debug\ThuSauNgay02_02_2018.csprojResolveAssemblyReference.cache
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\ThuSauNgay02_02_2018\ThuSauNgay02_02_2018\obj\Debug\ThuSauNgay02_02_2018.exe
+E:\SOURCE_CODE\DotNet\ThuatToanUngDung\ThuSauNgay02_02_2018\ThuSauNgay02_02_2018\obj\Debug\ThuSauNgay02_02_2018.pdb
